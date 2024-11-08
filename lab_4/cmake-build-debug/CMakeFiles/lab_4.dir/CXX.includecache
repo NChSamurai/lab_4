@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/B-ZONE/CLionProjects/lab_4/RightTriangle.h
+iostream
+-
+
+C:/Users/B-ZONE/CLionProjects/lab_4/main.cpp
+iostream
+-
+RightTriangle.h
+C:/Users/B-ZONE/CLionProjects/lab_4/RightTriangle.h
+operators.h
+C:/Users/B-ZONE/CLionProjects/lab_4/operators.h
+
+C:/Users/B-ZONE/CLionProjects/lab_4/operators.h
+iostream
+-
+RightTriangle.h
+C:/Users/B-ZONE/CLionProjects/lab_4/RightTriangle.h
+
